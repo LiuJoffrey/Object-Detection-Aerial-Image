@@ -6,7 +6,13 @@
 
 # Result
 
- 1.   `hw2_R07921052.pdf` with outcomes and experiments.  
+ 1.   `hw2_R07921052.pdf` with outcomes and experiments. 
+
+<p align="center">
+  <img width="550" height="500" src="">
+</p>
+
+For more details, please view `hw2_R07921052.pdf` for results and experiments.
 
 ### Evaluation
 To evaluate your model, you can run the provided evaluation script provided in the starter code by using the following command.
