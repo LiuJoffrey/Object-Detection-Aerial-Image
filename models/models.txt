@@ -1,0 +1,7 @@
+Simple yolo model:
+--> FC 
+
+
+Imroved yolo model:
+--> CNN
+
