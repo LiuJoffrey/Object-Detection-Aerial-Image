@@ -6,10 +6,10 @@
 
 # Result
 
- 1.   `hw2_R07921052.pdf` with outcomes and experiments. 
+ 
 
 <p align="center">
-  <img width="550" height="500" src="">
+  <img width="550" height="500" src="improve20_1.jpg">
 </p>
 
 For more details, please view `hw2_R07921052.pdf` for results and experiments.
