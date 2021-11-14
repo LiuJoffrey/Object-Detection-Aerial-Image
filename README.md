@@ -2,7 +2,7 @@
 
 
 
-# HW2 ― Object Detection
+# Object Detection in Aerial Image
 
 # Result
 
